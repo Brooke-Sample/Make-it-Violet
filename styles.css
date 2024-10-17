@@ -1,0 +1,32 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #EE82EE;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #9400D3;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        section {
+            padding: 1em;
+            margin: 1em;
+            background-color: #F8F8FF;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #8A2BE2;
+        }
+        .color-scheme {
+            background-color: #DDA0DD;
+        }
+        .general-use {
+            background-color: #E6E6FA; 
+        }
+        a {
+            color: #4B0082; 
+        }
+    
